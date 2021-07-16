@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasilemidrigan
 - 👀 I’m interested in Front-End Engineering
-- 🌱 I’m currently learning a course Front-End Engineer from Codecademy
+- 🌱 I’m currently learning the course Front-End Engineer from Codecademy
 - 💞️ I’m looking to collaborate on code reviews with html, css and js, with someone who's interested.
 - 📫 How to reach me: 111rigan111@gmail.com
 
