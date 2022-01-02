@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vasile Midrigan.
+- 👋 Hi there! I’m Vasile Midrigan.
 - 👀 Currently deeping in Front-End Development.
 - 🌱 Learning the Front-End Engineer from Codecademy and JavaScript from Jonas Schmedtmann online courses.
 - 💻 Working on aside projects from FrontendMentor.io and some other personal projects.
