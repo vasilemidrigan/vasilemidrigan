@@ -1,7 +1,7 @@
 - 👋 Hey there! I’m Vasile Midrigan.
 - 👀 Currently deeping in Front-End Development.
-- 🌱 Learning the Front-End Engineer from Codecademy and JavaScript from Jonas Schmedtmann online courses.
-- 💻 Working on aside projects from FrontendMentor.io and some other personal projects.
+- 🌱 Certificated as Front-end Developer from Codecademy.
+- 💻 Currently working on movie app project in React.
 - 💞️ Actually looking for a Front-End Developer position.
 - 📫 How to reach me: 111rigan111@gmail.com or my LinkedIn -> https://www.linkedin.com/in/vasile-midrigan/.
 
