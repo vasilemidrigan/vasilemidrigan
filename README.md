@@ -1,9 +1,8 @@
-- 👋 Hey there! I’m Vasile Midrigan.
-- 👀 Currently deeping in Front-End Development.
-- 🌱 Certificated as Front-end Developer from Codecademy.
-- 💻 Currently working on movie app project in React.
-- 💞️ Actually looking for a Front-End Developer position.
-- 📫 How to reach me: 111rigan111@gmail.com or my LinkedIn -> https://www.linkedin.com/in/vasile-midrigan/.
+- 👋 Hey there! I’m Vasile
+- ❤️‍🔥 A passionate, curious and hard-working Frontend Developer, certificated by Codecademy
+- 📚 Techstack: React, JavaScript, Git, Sass, CSS, HTML. 
+- 💻 Currently working on my movie app https://github.com/vasilemidrigan/night-owl and some other projects as well
+- 📫 Email: vasilemidrigan29@gmail.com | LinkedIn: https://www.linkedin.com/in/vasile-midrigan/.
 
 <!---
 vasilemidrigan/vasilemidrigan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
