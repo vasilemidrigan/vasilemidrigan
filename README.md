@@ -1,5 +1,5 @@
 - Frontend Developer
 - Currently working on an e-commerce web application for an online store: https://github.com/vasilemidrigan/e-store
 - Techstack: JavaScript, HTML, CSS, React.js, Next.js, Git, Sass, etc.
-- Enthusiastic about computer science in general, playing with C and Bash in Vim, and other weird stuff.
+- Enthusiastic about computer science in general. Playing with C, Bash, Vim, and other weird stuff.
 - vasilemidrigan29@gmail.com 
