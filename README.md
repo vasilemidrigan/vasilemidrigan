@@ -1,11 +1,4 @@
-- 👋 Hey there! I’m Vasile
-- ❤️‍🔥 A passionate, curious and hard-working Frontend Developer, certificated by Codecademy
-- 📚 Techstack: React, JavaScript, Git, Sass, CSS, HTML, Figma and VSCode.
-- 😍 Enthusiastic about computer science in general, C and Vim.
-- 💻 Currently working on my movie app https://github.com/vasilemidrigan/night-owl and some other projects as well
-- 📫 Email: vasilemidrigan29@gmail.com | LinkedIn: https://www.linkedin.com/in/vasile-midrigan/.
-
-<!---
-vasilemidrigan/vasilemidrigan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Frontend Developer
+  Techstack: JavaScript, HTML, CSS, React.js, Next.js, Git, Sass, etc. 
+  Enthusiastic about computer science in general, playing with C and Bash in Vim, and other weird stuff.
+  vasilemidrigan29@gmail.com 
